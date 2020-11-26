@@ -1,5 +1,5 @@
 
-OLED.init(128, 64)
+OLED.init(128, 32)
 OLED.writeStringNewLine("the quick brown fox jumped over the lazy dog?")
 OLED.writeStringNewLine("THE QUICK BROWN FOX JUMPED OVER THE LAZY DOG!")
 basic.pause(1000)
